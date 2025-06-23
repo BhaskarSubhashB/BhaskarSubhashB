@@ -68,9 +68,9 @@ A simplified version of Credly built from scratch.
 ---
 
 ## 📫 Contact Me
-- 📧 Email: bhaskarsubash9393@gmail.com  
+- 📧 Email: bhaskarsubash9393@gmail.com
 - 🔗 LinkedIn: [bhaskarsubhash](https://www.linkedin.com/in/bhaskarsubhash/)  
-- 💻 GitHub: [iamgodop](https://github.com/iamgodop)
+- 💻 GitHub: [iamgodop](https://github.com/BhaskarSubhashB)
 
 ---
 
